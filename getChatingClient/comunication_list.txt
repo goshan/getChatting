@@ -1,0 +1,17 @@
+connect@___
+connectOk
+disconnect@___
+disconnectOk
+eating@___
+eatOk@___
+eatwait@___
+drink@___
+drinkOk@___
+toilet@___
+toiletOk@___
+nothand@___
+nothandOk@___
+leave@___
+leaveOk@___
+water@___
+waterOk@___
